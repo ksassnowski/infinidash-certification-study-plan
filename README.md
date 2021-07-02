@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="art/cert-logo.jpg" />
+</p>
+
 # AWS Infinidash Certification Study Plan
 
 A curated study plan to help you prepare for the AWS Inifinidash certification exam.
@@ -78,3 +82,7 @@ _wip_
 ### Reintermediate hashtag spoofing
 
 _wip_
+
+# Credits
+
+- Logo by [@handsonaws](https://twitter.com/handsonaws/status/1410696636590825473)
